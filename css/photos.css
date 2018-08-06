@@ -1,0 +1,22 @@
+body {
+	background: linear-gradient(to right top, #63778b, #4b8696, #3d958f, #599f75, #8ba357);
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+	box-shadow: -3px 5px rgba(36, 20, 20, 0.974);
+}
+
+p {
+	font-family: 'Ubuntu', sans-serif;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid rgb(107, 180, 196);
+	width: 30%;
+	padding-bottom: 20px;
+}
+
